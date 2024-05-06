@@ -3,4 +3,6 @@ I created Machine Learning algorithms to determine whether a patient at a health
 
 Skills shown:
 1. EDA
-2. 
+2. Data visualisation (with MatPlotLib and Seaborn)
+3. Machine Learning (Logistic regression, KNN, SVM)
+4. GridSearchCV 
